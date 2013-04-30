@@ -58,11 +58,4 @@ if ($init->hasError()) {
 } else {
     echo $init->text();
 }
-
-
-
-
-
-
-
 ```
