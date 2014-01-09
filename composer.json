@@ -1,0 +1,14 @@
+{
+    "name": "pelish8/requests",
+    "description": "-",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksandar Stevic",
+            "email": "pelish8@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
